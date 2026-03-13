@@ -102,7 +102,7 @@ pip install ase numpy matplotlib scipy
 
 ## Usage
 
-Open `Practical_4_Codes.ipynb` in Jupyter and run cells sequentially. Tasks 3.5
+Open `atomistic_simulation_Cu.ipynb` in Jupyter and run cells sequentially. Tasks 3.5
 and 3.6 depend on the `results` dictionary populated in Task 3.2. Task 3.6 runs
 Langevin MD across 123 strain points — expect approximately 30 minutes on a
 standard laptop.

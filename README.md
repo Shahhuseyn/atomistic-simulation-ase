@@ -3,6 +3,8 @@
 **Course:** Materials Simulation Practical | FAU Erlangen-Nürnberg  
 **Tools:** Python · ASE · EMT potential · NumPy · SciPy · Matplotlib
 
+📄 [Full written report](report.pdf) | 💻 [Jupyter notebook](atomistic_simulation_Cu.ipynb)
+
 ---
 
 ## Overview

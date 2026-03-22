@@ -1,5 +1,4 @@
 # Atomistic Simulation of fcc Cu — Lattice Parameter & Elastic Constants
-
 **Course:** Materials Simulation Practical | FAU Erlangen-Nürnberg  
 **Tools:** Python · ASE · EMT potential · NumPy · SciPy · Matplotlib
 
@@ -18,13 +17,20 @@ finite-temperature molecular dynamics.
 
 ---
 
-## Task 3.2 — Equilibrium Lattice Parameter
+## Equilibrium Lattice Parameter
 
 Energy per atom scanned as a function of lattice constant for SC, BCC, and FCC
 structures using a two-stage coarse/fine grid with quadratic fitting to locate
 each minimum precisely.
 
-![Energy vs lattice constant](figures/lattice_energy.png)
+<table>
+  <tr>
+    <td align="center"><img src="figures/lattice_energy.png" width="420"/></td>
+  </tr>
+  <tr>
+    <td align="center">Energy per atom vs. lattice constant for SC, BCC, and FCC structures</td>
+  </tr>
+</table>
 
 | Structure | ℓ₀ (Å) | W₀ (eV/atom) |
 |-----------|--------|--------------|
@@ -37,14 +43,21 @@ the experimental value (3.615 Å) by **−0.48%**.
 
 ---
 
-## Task 3.5 — Elastic Constants via Energy-Strain
+## Elastic Constants via Energy-Strain
 
 Three independent strain paths applied to the relaxed FCC reference cell:
 uniaxial (ε₁₁), hydrostatic (εᵢᵢ), and shear (γ). The curvature of each
 strain energy density curve gives a combination of elastic constants, from
 which C₁₁, C₁₂, and C₄₄ are extracted analytically.
 
-![Energy-strain curves and cubic fits](figures/energy_strain_curves.png)
+<table>
+  <tr>
+    <td align="center"><img src="figures/energy_strain_curves.png" width="420"/></td>
+  </tr>
+  <tr>
+    <td align="center">Energy-strain curves and cubic fits for the three strain paths</td>
+  </tr>
+</table>
 
 | Constant | Computed (10¹¹ N/m²) | Literature | Error  |
 |----------|----------------------|------------|--------|
@@ -71,18 +84,42 @@ The small-strain quadratic approximation (fitted at ±0.5%) is extrapolated to
 
 ### Uniaxial
 
-![Uniaxial energy-strain](figures/uniaxial_energy.png)
-![Uniaxial relative error vs MD](figures/uniaxial_error.png)
+<table>
+  <tr>
+    <td align="center"><img src="figures/uniaxial_energy.png" width="380"/></td>
+    <td align="center"><img src="figures/uniaxial_error.png" width="380"/></td>
+  </tr>
+  <tr>
+    <td align="center">Energy-strain curve</td>
+    <td align="center">Relative error vs. MD</td>
+  </tr>
+</table>
 
 ### Hydrostatic
 
-![Hydrostatic energy-strain](figures/hydrostatic_energy.png)
-![Hydrostatic relative error vs MD](figures/hydrostatic_error.png)
+<table>
+  <tr>
+    <td align="center"><img src="figures/hydrostatic_energy.png" width="380"/></td>
+    <td align="center"><img src="figures/hydrostatic_error.png" width="380"/></td>
+  </tr>
+  <tr>
+    <td align="center">Energy-strain curve</td>
+    <td align="center">Relative error vs. MD</td>
+  </tr>
+</table>
 
 ### Shear
 
-![Shear energy-strain](figures/shear_energy.png)
-![Shear relative error vs MD](figures/shear_error.png)
+<table>
+  <tr>
+    <td align="center"><img src="figures/shear_energy.png" width="380"/></td>
+    <td align="center"><img src="figures/shear_error.png" width="380"/></td>
+  </tr>
+  <tr>
+    <td align="center">Energy-strain curve</td>
+    <td align="center">Relative error vs. MD</td>
+  </tr>
+</table>
 
 Hydrostatic loading breaks down earliest (~5%), reflecting strong volumetric
 nonlinearity in the EMT potential. Shear deformation remains within the linear
@@ -94,6 +131,7 @@ division — absolute errors at those strains are negligible.
 ---
 
 ## Requirements
+
 ```bash
 pip install ase numpy matplotlib scipy
 ```

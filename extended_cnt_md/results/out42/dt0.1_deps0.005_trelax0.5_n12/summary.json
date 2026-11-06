@@ -1,0 +1,164 @@
+{
+  "params": {
+    "dt": 0.1,
+    "deps": 0.005,
+    "trelax": 0.5,
+    "nsteps": 12,
+    "ucells": 4,
+    "rms": 0.001,
+    "wfs": 50.0,
+    "drift_ppm": 50.0
+  },
+  "natoms": 80,
+  "total_applied_strain": 0.05999999999999999,
+  "records": [
+    {
+      "step": 1,
+      "deps": 0.005,
+      "dt_fs": 0.1,
+      "trelax_ps": 0.5,
+      "rel_time_ps": 0.5,
+      "rate_per_ps": 0.01,
+      "E_drift_ppm_per_ps": 1.1992484783974174e-05,
+      "Tmax_K": 1.1542355540566258,
+      "Tmean_K": 0.5827168985641227,
+      "unstable": false
+    },
+    {
+      "step": 2,
+      "deps": 0.005,
+      "dt_fs": 0.1,
+      "trelax_ps": 0.5,
+      "rel_time_ps": 0.5,
+      "rate_per_ps": 0.01,
+      "E_drift_ppm_per_ps": 0.00022615795148367096,
+      "Tmax_K": 3.819701826874392,
+      "Tmean_K": 1.9196625032246935,
+      "unstable": false
+    },
+    {
+      "step": 3,
+      "deps": 0.005,
+      "dt_fs": 0.1,
+      "trelax_ps": 0.5,
+      "rel_time_ps": 0.5,
+      "rate_per_ps": 0.01,
+      "E_drift_ppm_per_ps": 0.00010303736225337599,
+      "Tmax_K": 6.626618442641256,
+      "Tmean_K": 3.286662352929659,
+      "unstable": false
+    },
+    {
+      "step": 4,
+      "deps": 0.005,
+      "dt_fs": 0.1,
+      "trelax_ps": 0.5,
+      "rel_time_ps": 0.5,
+      "rate_per_ps": 0.01,
+      "E_drift_ppm_per_ps": 0.00028514261156006317,
+      "Tmax_K": 5.501352159845018,
+      "Tmean_K": 2.738796156305489,
+      "unstable": false
+    },
+    {
+      "step": 5,
+      "deps": 0.005,
+      "dt_fs": 0.1,
+      "trelax_ps": 0.5,
+      "rel_time_ps": 0.5,
+      "rate_per_ps": 0.01,
+      "E_drift_ppm_per_ps": 0.00021605635850412039,
+      "Tmax_K": 4.125677601468963,
+      "Tmean_K": 2.0731972140164094,
+      "unstable": false
+    },
+    {
+      "step": 6,
+      "deps": 0.005,
+      "dt_fs": 0.1,
+      "trelax_ps": 0.5,
+      "rel_time_ps": 0.5,
+      "rate_per_ps": 0.01,
+      "E_drift_ppm_per_ps": 0.00014755278956549912,
+      "Tmax_K": 4.009302204142592,
+      "Tmean_K": 2.0203068632006738,
+      "unstable": false
+    },
+    {
+      "step": 7,
+      "deps": 0.005,
+      "dt_fs": 0.1,
+      "trelax_ps": 0.5,
+      "rel_time_ps": 0.5,
+      "rate_per_ps": 0.01,
+      "E_drift_ppm_per_ps": 2.8773476070194212e-05,
+      "Tmax_K": 4.895435787246774,
+      "Tmean_K": 2.4633757671443983,
+      "unstable": false
+    },
+    {
+      "step": 8,
+      "deps": 0.005,
+      "dt_fs": 0.1,
+      "trelax_ps": 0.5,
+      "rel_time_ps": 0.5,
+      "rate_per_ps": 0.01,
+      "E_drift_ppm_per_ps": 0.00044249785383988766,
+      "Tmax_K": 3.5085758131302653,
+      "Tmean_K": 1.7611550454584088,
+      "unstable": false
+    },
+    {
+      "step": 9,
+      "deps": 0.005,
+      "dt_fs": 0.1,
+      "trelax_ps": 0.5,
+      "rel_time_ps": 0.5,
+      "rate_per_ps": 0.01,
+      "E_drift_ppm_per_ps": 0.00027653957643768796,
+      "Tmax_K": 2.6076657160151338,
+      "Tmean_K": 1.3122856554893942,
+      "unstable": false
+    },
+    {
+      "step": 10,
+      "deps": 0.005,
+      "dt_fs": 0.1,
+      "trelax_ps": 0.5,
+      "rel_time_ps": 0.5,
+      "rate_per_ps": 0.01,
+      "E_drift_ppm_per_ps": 3.867866322356602e-05,
+      "Tmax_K": 3.017310986674701,
+      "Tmean_K": 1.4909152544504491,
+      "unstable": false
+    },
+    {
+      "step": 11,
+      "deps": 0.005,
+      "dt_fs": 0.1,
+      "trelax_ps": 0.5,
+      "rel_time_ps": 0.5,
+      "rate_per_ps": 0.01,
+      "E_drift_ppm_per_ps": 0.0003625329927835245,
+      "Tmax_K": 4.850979440360625,
+      "Tmean_K": 2.4173787525446224,
+      "unstable": false
+    },
+    {
+      "step": 12,
+      "deps": 0.005,
+      "dt_fs": 0.1,
+      "trelax_ps": 0.5,
+      "rel_time_ps": 0.5,
+      "rate_per_ps": 0.01,
+      "E_drift_ppm_per_ps": 0.00022004934490843725,
+      "Tmax_K": 3.1826621501526673,
+      "Tmean_K": 1.6021368287915625,
+      "unstable": false
+    }
+  ],
+  "notes": {
+    "instability_flags": "energy drift > drift_ppm OR Tmax > 2000 K",
+    "relaxation_time": "first time where rolling RMS(Etot per atom) < threshold thereafter"
+  }
+}

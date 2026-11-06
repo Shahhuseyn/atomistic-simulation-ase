@@ -1,0 +1,164 @@
+{
+  "params": {
+    "dt": 0.5,
+    "deps": 0.01,
+    "trelax": 0.2,
+    "nsteps": 12,
+    "ucells": 4,
+    "rms": 0.001,
+    "wfs": 50.0,
+    "drift_ppm": 50.0
+  },
+  "natoms": 80,
+  "total_applied_strain": 0.11999999999999998,
+  "records": [
+    {
+      "step": 1,
+      "deps": 0.01,
+      "dt_fs": 0.5,
+      "trelax_ps": 0.2,
+      "rel_time_ps": 0.2,
+      "rate_per_ps": 0.049999999999999996,
+      "E_drift_ppm_per_ps": 0.04497707270794352,
+      "Tmax_K": 3.920450730504977,
+      "Tmean_K": 2.0366340751831165,
+      "unstable": false
+    },
+    {
+      "step": 2,
+      "deps": 0.01,
+      "dt_fs": 0.5,
+      "trelax_ps": 0.2,
+      "rel_time_ps": 0.2,
+      "rate_per_ps": 0.049999999999999996,
+      "E_drift_ppm_per_ps": 0.006211914110246987,
+      "Tmax_K": 6.400822223086099,
+      "Tmean_K": 3.317044751374735,
+      "unstable": false
+    },
+    {
+      "step": 3,
+      "deps": 0.01,
+      "dt_fs": 0.5,
+      "trelax_ps": 0.2,
+      "rel_time_ps": 0.2,
+      "rate_per_ps": 0.049999999999999996,
+      "E_drift_ppm_per_ps": 0.0355179440950286,
+      "Tmax_K": 9.071044992003335,
+      "Tmean_K": 4.704980665327591,
+      "unstable": false
+    },
+    {
+      "step": 4,
+      "deps": 0.01,
+      "dt_fs": 0.5,
+      "trelax_ps": 0.2,
+      "rel_time_ps": 0.2,
+      "rate_per_ps": 0.049999999999999996,
+      "E_drift_ppm_per_ps": 0.03768199147708806,
+      "Tmax_K": 14.513101487919599,
+      "Tmean_K": 7.361522972944906,
+      "unstable": false
+    },
+    {
+      "step": 5,
+      "deps": 0.01,
+      "dt_fs": 0.5,
+      "trelax_ps": 0.2,
+      "rel_time_ps": 0.2,
+      "rate_per_ps": 0.049999999999999996,
+      "E_drift_ppm_per_ps": 0.07473292436472195,
+      "Tmax_K": 21.818186620367324,
+      "Tmean_K": 10.897239854828692,
+      "unstable": false
+    },
+    {
+      "step": 6,
+      "deps": 0.01,
+      "dt_fs": 0.5,
+      "trelax_ps": 0.2,
+      "rel_time_ps": 0.2,
+      "rate_per_ps": 0.049999999999999996,
+      "E_drift_ppm_per_ps": 0.1390477071950427,
+      "Tmax_K": 30.06750050012606,
+      "Tmean_K": 15.17877223151402,
+      "unstable": false
+    },
+    {
+      "step": 7,
+      "deps": 0.01,
+      "dt_fs": 0.5,
+      "trelax_ps": 0.2,
+      "rel_time_ps": 0.2,
+      "rate_per_ps": 0.049999999999999996,
+      "E_drift_ppm_per_ps": 0.02928376390978919,
+      "Tmax_K": 32.842151350206606,
+      "Tmean_K": 16.322764542438414,
+      "unstable": false
+    },
+    {
+      "step": 8,
+      "deps": 0.01,
+      "dt_fs": 0.5,
+      "trelax_ps": 0.2,
+      "rel_time_ps": 0.2,
+      "rate_per_ps": 0.049999999999999996,
+      "E_drift_ppm_per_ps": 0.2869359794377213,
+      "Tmax_K": 24.15037988603151,
+      "Tmean_K": 11.91083055115977,
+      "unstable": false
+    },
+    {
+      "step": 9,
+      "deps": 0.01,
+      "dt_fs": 0.5,
+      "trelax_ps": 0.2,
+      "rel_time_ps": 0.2,
+      "rate_per_ps": 0.049999999999999996,
+      "E_drift_ppm_per_ps": 0.46695423108244755,
+      "Tmax_K": 27.77864060664329,
+      "Tmean_K": 14.151810279185298,
+      "unstable": false
+    },
+    {
+      "step": 10,
+      "deps": 0.01,
+      "dt_fs": 0.5,
+      "trelax_ps": 0.2,
+      "rel_time_ps": 0.2,
+      "rate_per_ps": 0.049999999999999996,
+      "E_drift_ppm_per_ps": 0.059323988244842175,
+      "Tmax_K": 18.291650211670373,
+      "Tmean_K": 9.488761491036731,
+      "unstable": false
+    },
+    {
+      "step": 11,
+      "deps": 0.01,
+      "dt_fs": 0.5,
+      "trelax_ps": 0.2,
+      "rel_time_ps": 0.2,
+      "rate_per_ps": 0.049999999999999996,
+      "E_drift_ppm_per_ps": 0.03139756120953046,
+      "Tmax_K": 15.513261775022503,
+      "Tmean_K": 8.078114753331345,
+      "unstable": false
+    },
+    {
+      "step": 12,
+      "deps": 0.01,
+      "dt_fs": 0.5,
+      "trelax_ps": 0.2,
+      "rel_time_ps": 0.2,
+      "rate_per_ps": 0.049999999999999996,
+      "E_drift_ppm_per_ps": 0.4626364402563527,
+      "Tmax_K": 21.049140283771308,
+      "Tmean_K": 10.985937000949074,
+      "unstable": false
+    }
+  ],
+  "notes": {
+    "instability_flags": "energy drift > drift_ppm OR Tmax > 2000 K",
+    "relaxation_time": "first time where rolling RMS(Etot per atom) < threshold thereafter"
+  }
+}

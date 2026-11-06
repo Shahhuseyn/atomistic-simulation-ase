@@ -1,0 +1,164 @@
+{
+  "params": {
+    "dt": 1.0,
+    "deps": 0.02,
+    "trelax": 0.2,
+    "nsteps": 12,
+    "ucells": 4,
+    "rms": 0.001,
+    "wfs": 50.0,
+    "drift_ppm": 50.0
+  },
+  "natoms": 80,
+  "total_applied_strain": 0.23999999999999996,
+  "records": [
+    {
+      "step": 1,
+      "deps": 0.02,
+      "dt_fs": 1.0,
+      "trelax_ps": 0.2,
+      "rel_time_ps": 0.2,
+      "rate_per_ps": 0.09999999999999999,
+      "E_drift_ppm_per_ps": 24.930276511150915,
+      "Tmax_K": 13.50259450982015,
+      "Tmean_K": 7.7696429082074445,
+      "unstable": false
+    },
+    {
+      "step": 2,
+      "deps": 0.02,
+      "dt_fs": 1.0,
+      "trelax_ps": 0.2,
+      "rel_time_ps": 0.2,
+      "rate_per_ps": 0.09999999999999999,
+      "E_drift_ppm_per_ps": 9.693905841766007,
+      "Tmax_K": 25.205357585638854,
+      "Tmean_K": 17.205388639314542,
+      "unstable": false
+    },
+    {
+      "step": 3,
+      "deps": 0.02,
+      "dt_fs": 1.0,
+      "trelax_ps": 0.2,
+      "rel_time_ps": 0.2,
+      "rate_per_ps": 0.09999999999999999,
+      "E_drift_ppm_per_ps": 17.524793447763216,
+      "Tmax_K": 27.608581941940525,
+      "Tmean_K": 15.037223307207617,
+      "unstable": false
+    },
+    {
+      "step": 4,
+      "deps": 0.02,
+      "dt_fs": 1.0,
+      "trelax_ps": 0.2,
+      "rel_time_ps": 0.2,
+      "rate_per_ps": 0.09999999999999999,
+      "E_drift_ppm_per_ps": 12.28290410854886,
+      "Tmax_K": 64.61682486167801,
+      "Tmean_K": 38.83367004677808,
+      "unstable": false
+    },
+    {
+      "step": 5,
+      "deps": 0.02,
+      "dt_fs": 1.0,
+      "trelax_ps": 0.2,
+      "rel_time_ps": 0.2,
+      "rate_per_ps": 0.09999999999999999,
+      "E_drift_ppm_per_ps": 12.852347858538247,
+      "Tmax_K": 53.38617259097162,
+      "Tmean_K": 24.15243930344916,
+      "unstable": false
+    },
+    {
+      "step": 6,
+      "deps": 0.02,
+      "dt_fs": 1.0,
+      "trelax_ps": 0.2,
+      "rel_time_ps": 0.2,
+      "rate_per_ps": 0.09999999999999999,
+      "E_drift_ppm_per_ps": 24.035097057587304,
+      "Tmax_K": 48.43519315650759,
+      "Tmean_K": 31.082479176139646,
+      "unstable": false
+    },
+    {
+      "step": 7,
+      "deps": 0.02,
+      "dt_fs": 1.0,
+      "trelax_ps": 0.2,
+      "rel_time_ps": 0.2,
+      "rate_per_ps": 0.09999999999999999,
+      "E_drift_ppm_per_ps": 14.054506533799612,
+      "Tmax_K": 84.79502678783011,
+      "Tmean_K": 43.23475824272122,
+      "unstable": false
+    },
+    {
+      "step": 8,
+      "deps": 0.02,
+      "dt_fs": 1.0,
+      "trelax_ps": 0.2,
+      "rel_time_ps": 0.2,
+      "rate_per_ps": 0.09999999999999999,
+      "E_drift_ppm_per_ps": 44.77941552053756,
+      "Tmax_K": 91.7599895799776,
+      "Tmean_K": 44.98420127224664,
+      "unstable": false
+    },
+    {
+      "step": 9,
+      "deps": 0.02,
+      "dt_fs": 1.0,
+      "trelax_ps": 0.2,
+      "rel_time_ps": 0.2,
+      "rate_per_ps": 0.09999999999999999,
+      "E_drift_ppm_per_ps": 20.965098943531206,
+      "Tmax_K": 72.88901303881862,
+      "Tmean_K": 40.021369048908525,
+      "unstable": false
+    },
+    {
+      "step": 10,
+      "deps": 0.02,
+      "dt_fs": 1.0,
+      "trelax_ps": 0.2,
+      "rel_time_ps": 0.2,
+      "rate_per_ps": 0.09999999999999999,
+      "E_drift_ppm_per_ps": 3.1495338129642865,
+      "Tmax_K": 70.2800387896724,
+      "Tmean_K": 40.85007276878903,
+      "unstable": false
+    },
+    {
+      "step": 11,
+      "deps": 0.02,
+      "dt_fs": 1.0,
+      "trelax_ps": 0.2,
+      "rel_time_ps": 0.2,
+      "rate_per_ps": 0.09999999999999999,
+      "E_drift_ppm_per_ps": 1.7889692396614612,
+      "Tmax_K": 93.83859526015824,
+      "Tmean_K": 47.18886142718744,
+      "unstable": false
+    },
+    {
+      "step": 12,
+      "deps": 0.02,
+      "dt_fs": 1.0,
+      "trelax_ps": 0.2,
+      "rel_time_ps": 0.2,
+      "rate_per_ps": 0.09999999999999999,
+      "E_drift_ppm_per_ps": 15.974596704839067,
+      "Tmax_K": 100.89075769146156,
+      "Tmean_K": 50.89144200747745,
+      "unstable": false
+    }
+  ],
+  "notes": {
+    "instability_flags": "energy drift > drift_ppm OR Tmax > 2000 K",
+    "relaxation_time": "first time where rolling RMS(Etot per atom) < threshold thereafter"
+  }
+}

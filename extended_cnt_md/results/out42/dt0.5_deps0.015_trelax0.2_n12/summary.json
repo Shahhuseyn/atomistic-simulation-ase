@@ -1,0 +1,164 @@
+{
+  "params": {
+    "dt": 0.5,
+    "deps": 0.015,
+    "trelax": 0.2,
+    "nsteps": 12,
+    "ucells": 4,
+    "rms": 0.001,
+    "wfs": 50.0,
+    "drift_ppm": 50.0
+  },
+  "natoms": 80,
+  "total_applied_strain": 0.18000000000000005,
+  "records": [
+    {
+      "step": 1,
+      "deps": 0.015,
+      "dt_fs": 0.5,
+      "trelax_ps": 0.2,
+      "rel_time_ps": 0.2,
+      "rate_per_ps": 0.075,
+      "E_drift_ppm_per_ps": 0.03895206424580706,
+      "Tmax_K": 8.161202931403142,
+      "Tmean_K": 4.269000494347973,
+      "unstable": false
+    },
+    {
+      "step": 2,
+      "deps": 0.015,
+      "dt_fs": 0.5,
+      "trelax_ps": 0.2,
+      "rel_time_ps": 0.2,
+      "rate_per_ps": 0.075,
+      "E_drift_ppm_per_ps": 0.15570043110448065,
+      "Tmax_K": 15.331768003504235,
+      "Tmean_K": 7.802845037816304,
+      "unstable": false
+    },
+    {
+      "step": 3,
+      "deps": 0.015,
+      "dt_fs": 0.5,
+      "trelax_ps": 0.2,
+      "rel_time_ps": 0.2,
+      "rate_per_ps": 0.075,
+      "E_drift_ppm_per_ps": 0.2288577772885291,
+      "Tmax_K": 20.81924691655201,
+      "Tmean_K": 11.242826112297847,
+      "unstable": false
+    },
+    {
+      "step": 4,
+      "deps": 0.015,
+      "dt_fs": 0.5,
+      "trelax_ps": 0.2,
+      "rel_time_ps": 0.2,
+      "rate_per_ps": 0.075,
+      "E_drift_ppm_per_ps": 0.01982210600996778,
+      "Tmax_K": 34.174118184316725,
+      "Tmean_K": 17.56225260781496,
+      "unstable": false
+    },
+    {
+      "step": 5,
+      "deps": 0.015,
+      "dt_fs": 0.5,
+      "trelax_ps": 0.2,
+      "rel_time_ps": 0.2,
+      "rate_per_ps": 0.075,
+      "E_drift_ppm_per_ps": 0.41586479666451104,
+      "Tmax_K": 49.06243319477491,
+      "Tmean_K": 25.05430837696,
+      "unstable": false
+    },
+    {
+      "step": 6,
+      "deps": 0.015,
+      "dt_fs": 0.5,
+      "trelax_ps": 0.2,
+      "rel_time_ps": 0.2,
+      "rate_per_ps": 0.075,
+      "E_drift_ppm_per_ps": 0.2982819562494896,
+      "Tmax_K": 36.25002471622883,
+      "Tmean_K": 18.6037742213014,
+      "unstable": false
+    },
+    {
+      "step": 7,
+      "deps": 0.015,
+      "dt_fs": 0.5,
+      "trelax_ps": 0.2,
+      "rel_time_ps": 0.2,
+      "rate_per_ps": 0.075,
+      "E_drift_ppm_per_ps": 0.014955837272553646,
+      "Tmax_K": 46.59341885809822,
+      "Tmean_K": 24.106720473509473,
+      "unstable": false
+    },
+    {
+      "step": 8,
+      "deps": 0.015,
+      "dt_fs": 0.5,
+      "trelax_ps": 0.2,
+      "rel_time_ps": 0.2,
+      "rate_per_ps": 0.075,
+      "E_drift_ppm_per_ps": 0.7781034505446423,
+      "Tmax_K": 46.88120831737696,
+      "Tmean_K": 24.4555561387247,
+      "unstable": false
+    },
+    {
+      "step": 9,
+      "deps": 0.015,
+      "dt_fs": 0.5,
+      "trelax_ps": 0.2,
+      "rel_time_ps": 0.2,
+      "rate_per_ps": 0.075,
+      "E_drift_ppm_per_ps": 0.3397897594998829,
+      "Tmax_K": 48.237068114892416,
+      "Tmean_K": 24.147899962355634,
+      "unstable": false
+    },
+    {
+      "step": 10,
+      "deps": 0.015,
+      "dt_fs": 0.5,
+      "trelax_ps": 0.2,
+      "rel_time_ps": 0.2,
+      "rate_per_ps": 0.075,
+      "E_drift_ppm_per_ps": 0.2475836232608339,
+      "Tmax_K": 61.00303724467035,
+      "Tmean_K": 31.294146419497554,
+      "unstable": false
+    },
+    {
+      "step": 11,
+      "deps": 0.015,
+      "dt_fs": 0.5,
+      "trelax_ps": 0.2,
+      "rel_time_ps": 0.2,
+      "rate_per_ps": 0.075,
+      "E_drift_ppm_per_ps": 1.3762749720746406,
+      "Tmax_K": 60.17677635216459,
+      "Tmean_K": 31.19733624122615,
+      "unstable": false
+    },
+    {
+      "step": 12,
+      "deps": 0.015,
+      "dt_fs": 0.5,
+      "trelax_ps": 0.2,
+      "rel_time_ps": 0.2,
+      "rate_per_ps": 0.075,
+      "E_drift_ppm_per_ps": 0.8045264024956298,
+      "Tmax_K": 55.41652440273369,
+      "Tmean_K": 27.891144310162133,
+      "unstable": false
+    }
+  ],
+  "notes": {
+    "instability_flags": "energy drift > drift_ppm OR Tmax > 2000 K",
+    "relaxation_time": "first time where rolling RMS(Etot per atom) < threshold thereafter"
+  }
+}

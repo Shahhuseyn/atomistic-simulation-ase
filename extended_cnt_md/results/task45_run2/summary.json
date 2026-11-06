@@ -1,0 +1,18 @@
+{
+  "params": {
+    "dt_fs": 0.5,
+    "deps": 0.02,
+    "trelax_ps": 0.2,
+    "nsteps": 25,
+    "ucells": 6,
+    "T": 300.0,
+    "tauT_fs": 80.0,
+    "wall_thick_A": 3.4
+  },
+  "natoms": 120,
+  "fractured_at_strain": 0.040400000000000144,
+  "peak_wall_stress_GPa": -4.118262420962057,
+  "peak_at_strain": 0.020000000000000073,
+  "bond_breaking_energy_increase_eV_per_atom": 0.0,
+  "records_count": 2
+}

@@ -130,6 +130,15 @@ division — absolute errors at those strains are negligible.
 
 ---
 
+## Extended: Carbon Nanotube Molecular Dynamics
+
+An extended version of this practical also covers uniaxial stretching of a (5,5) carbon
+nanotube with the AIREBO potential in LAMMPS (NVE and NVT at 300 K, bond breaking and
+stress–strain). Report, notebook, scripts and raw results are in
+[`extended_cnt_md/`](extended_cnt_md/).
+
+---
+
 ## Requirements
 
 ```bash

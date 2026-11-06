@@ -1,0 +1,32 @@
+{
+  "params": {
+    "dt": 0.1,
+    "deps": 0.015,
+    "trelax": 0.5,
+    "nsteps": 12,
+    "ucells": 4,
+    "rms": 0.001,
+    "wfs": 50.0,
+    "drift_ppm": 50.0
+  },
+  "natoms": 80,
+  "total_applied_strain": 0.015,
+  "records": [
+    {
+      "step": 1,
+      "deps": 0.015,
+      "dt_fs": 0.1,
+      "trelax_ps": 0.5,
+      "rel_time_ps": 0.5,
+      "rate_per_ps": 0.03,
+      "E_drift_ppm_per_ps": 0.000117969571705489,
+      "Tmax_K": 8.351111015588607,
+      "Tmean_K": 4.224394924476185,
+      "unstable": true
+    }
+  ],
+  "notes": {
+    "instability_flags": "energy drift > drift_ppm OR Tmax > 2000 K",
+    "relaxation_time": "first time where rolling RMS(Etot per atom) < threshold thereafter"
+  }
+}

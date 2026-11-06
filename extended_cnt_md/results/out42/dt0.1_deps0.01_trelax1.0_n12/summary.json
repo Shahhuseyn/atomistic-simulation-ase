@@ -1,0 +1,164 @@
+{
+  "params": {
+    "dt": 0.1,
+    "deps": 0.01,
+    "trelax": 1.0,
+    "nsteps": 12,
+    "ucells": 4,
+    "rms": 0.001,
+    "wfs": 50.0,
+    "drift_ppm": 50.0
+  },
+  "natoms": 80,
+  "total_applied_strain": 0.11999999999999998,
+  "records": [
+    {
+      "step": 1,
+      "deps": 0.01,
+      "dt_fs": 0.1,
+      "trelax_ps": 1.0,
+      "rel_time_ps": 0.5,
+      "rate_per_ps": 0.02,
+      "E_drift_ppm_per_ps": 1.0655697674276084e-06,
+      "Tmax_K": 4.010642051628911,
+      "Tmean_K": 2.010323593474008,
+      "unstable": false
+    },
+    {
+      "step": 2,
+      "deps": 0.01,
+      "dt_fs": 0.1,
+      "trelax_ps": 1.0,
+      "rel_time_ps": 0.5,
+      "rate_per_ps": 0.02,
+      "E_drift_ppm_per_ps": 1.4191554051839882e-05,
+      "Tmax_K": 7.156027443947988,
+      "Tmean_K": 3.5495444920325037,
+      "unstable": false
+    },
+    {
+      "step": 3,
+      "deps": 0.01,
+      "dt_fs": 0.1,
+      "trelax_ps": 1.0,
+      "rel_time_ps": 0.5,
+      "rate_per_ps": 0.02,
+      "E_drift_ppm_per_ps": 5.7550360608448324e-05,
+      "Tmax_K": 12.117911880263621,
+      "Tmean_K": 6.091728064859636,
+      "unstable": false
+    },
+    {
+      "step": 4,
+      "deps": 0.01,
+      "dt_fs": 0.1,
+      "trelax_ps": 1.0,
+      "rel_time_ps": 0.5,
+      "rate_per_ps": 0.02,
+      "E_drift_ppm_per_ps": 0.00017173000270649254,
+      "Tmax_K": 15.234829790653885,
+      "Tmean_K": 7.611379633372743,
+      "unstable": false
+    },
+    {
+      "step": 5,
+      "deps": 0.01,
+      "dt_fs": 0.1,
+      "trelax_ps": 1.0,
+      "rel_time_ps": 0.5,
+      "rate_per_ps": 0.02,
+      "E_drift_ppm_per_ps": 0.0007037734670646767,
+      "Tmax_K": 27.677149922961547,
+      "Tmean_K": 13.824848533123841,
+      "unstable": false
+    },
+    {
+      "step": 6,
+      "deps": 0.01,
+      "dt_fs": 0.1,
+      "trelax_ps": 1.0,
+      "rel_time_ps": 0.5,
+      "rate_per_ps": 0.02,
+      "E_drift_ppm_per_ps": 0.0006360904539177666,
+      "Tmax_K": 16.832966580611746,
+      "Tmean_K": 8.42926268046198,
+      "unstable": false
+    },
+    {
+      "step": 7,
+      "deps": 0.01,
+      "dt_fs": 0.1,
+      "trelax_ps": 1.0,
+      "rel_time_ps": 0.5,
+      "rate_per_ps": 0.02,
+      "E_drift_ppm_per_ps": 0.00012806983407893994,
+      "Tmax_K": 9.446429580456643,
+      "Tmean_K": 4.738527611179444,
+      "unstable": false
+    },
+    {
+      "step": 8,
+      "deps": 0.01,
+      "dt_fs": 0.1,
+      "trelax_ps": 1.0,
+      "rel_time_ps": 0.5,
+      "rate_per_ps": 0.02,
+      "E_drift_ppm_per_ps": 0.00013675139678065107,
+      "Tmax_K": 16.750045821583065,
+      "Tmean_K": 8.367649611861347,
+      "unstable": false
+    },
+    {
+      "step": 9,
+      "deps": 0.01,
+      "dt_fs": 0.1,
+      "trelax_ps": 1.0,
+      "rel_time_ps": 0.5,
+      "rate_per_ps": 0.02,
+      "E_drift_ppm_per_ps": 0.0002367389580150035,
+      "Tmax_K": 14.16115963741765,
+      "Tmean_K": 7.093579752307514,
+      "unstable": false
+    },
+    {
+      "step": 10,
+      "deps": 0.01,
+      "dt_fs": 0.1,
+      "trelax_ps": 1.0,
+      "rel_time_ps": 0.5,
+      "rate_per_ps": 0.02,
+      "E_drift_ppm_per_ps": 0.0006950587392433285,
+      "Tmax_K": 18.303274932850414,
+      "Tmean_K": 9.153217114395021,
+      "unstable": false
+    },
+    {
+      "step": 11,
+      "deps": 0.01,
+      "dt_fs": 0.1,
+      "trelax_ps": 1.0,
+      "rel_time_ps": 0.5,
+      "rate_per_ps": 0.02,
+      "E_drift_ppm_per_ps": 7.964877243610535e-05,
+      "Tmax_K": 16.1579172451097,
+      "Tmean_K": 8.088077017106613,
+      "unstable": false
+    },
+    {
+      "step": 12,
+      "deps": 0.01,
+      "dt_fs": 0.1,
+      "trelax_ps": 1.0,
+      "rel_time_ps": 0.5,
+      "rate_per_ps": 0.02,
+      "E_drift_ppm_per_ps": 8.55010300810832e-06,
+      "Tmax_K": 20.774241355553574,
+      "Tmean_K": 10.421846092427554,
+      "unstable": false
+    }
+  ],
+  "notes": {
+    "instability_flags": "energy drift > drift_ppm OR Tmax > 2000 K",
+    "relaxation_time": "first time where rolling RMS(Etot per atom) < threshold thereafter"
+  }
+}
